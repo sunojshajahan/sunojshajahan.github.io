@@ -1,9 +1,14 @@
-name: "mywebpage"  
-author: "YOUR NAME"  
+name: "Sunoj Shajahan"  
+author: "S.Sunoj"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
     theme: flatly  
-navbar:  
-  title: "My First Webpage"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
