@@ -1,3 +1,55 @@
 ---
-title: "This is about me... "
+title: "Sunoj Shajahan"
 ---
+<!-- Test sunoj's photo with this...  ![Sunoj Shajahan](./images/myphoto.jpg#right) {float: right} -->
+
+![](./images/myphoto.jpg#right){width=30%}
+
+## Postdoctoral associate 
+Nutrient Management Spear Program, 
+Department of Animal Science, 
+Cornell University, Ithaca, NY 14853. 
+Email: ss2678@cornell.edu
+Connect me in 
+
+## Education 
+**Ph.D. Agricultural and Biosystems Engineering**
+North Dakota State University (NDSU), Fargo, ND, USA 
+
+**M.Tech., Agricultural Processing and Food Engineering**
+Tamil Nadu Agricultural University (TNAU), Coimbatore, India
+
+**B.Tech., Food Process Engineering**
+Tamil Nadu Agricultural University (TNAU), Coimbatore, India
+
+## Professional experiences
+**Postdoctoral associate** 		Oct. 2019–Present
+Department of Animal Science, Cornell University, Ithaca, NY, USA
+
+**Graduate research assistant**	Aug. 2015–Oct. 2019
+Department of Agricultural & Biosystems Engineering, NDSU, Fargo, ND, USA
+
+**Teaching instructor**		Jan. 2015–May 2015
+Ramakrishna Mission Vivekananda Educational & Research Institute, Coimbatore, India
+
+**Graduate research fellow**	July 2012–May 2014
+Department of Food & Agricultural Process Engineering, TNAU, Coimbatore, India
+
+**Product development trainee**	Jan. 2014–Feb. 2014
+Britannia Industries Private Limited, Chennai, India
+
+**Quality assurance and product development trainee**	Nov. 2011–Feb. 2012
+Perfetti Van Melle Private Limited, Chennai, India
+
+
+## Technical skills
+•	**Programming languages**: Java, JavaScript, Python, R, Dart, HTML, CSS. <br>
+•	**UAV/Precision agriculture software**: Ag SMS, WebODM, Pix4D Mapper, DroneDeploy. <br>
+•	**GIS/Remote sensing**: QGIS, Google Earth Engine, R, ArcGIS, ENVI. <br>
+•	**Machine learning**: Scikit-learn (Python), caret (R). <br>
+•	**Deep learning**: PyTorch (Python), TensorFlow (Python), Keras (R). <br>
+•	**Mobile application**: Android Studio (Java), Flutter (Dart). <br>
+•	**Robotics**: RaspberryPi (Pi 3B+), Arduino (Uno). <br>
+•	**Document preparation**: LATEX, Microsoft Office. <br>
+
+

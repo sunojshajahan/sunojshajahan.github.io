@@ -1,14 +1,21 @@
 name: "Sunoj Shajahan"  
 author: "S.Sunoj"  
 output_dir: "docs"  
+
 output:  
   html_document:  
     self_contained: no  
     theme: flatly  
+    include:
+      after_body: footer.html
+    css: styles.css
+    
 navbar:
   title: "Sunoj Shajahan"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About"
       href: about.html
+    - text: "Home"
+      href: index.html
+    
+    
