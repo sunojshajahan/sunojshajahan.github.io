@@ -1,10 +1,9 @@
-name: "my-website"
-navbar:
-  title: "My Website"
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-      
-output_dir: "_site"
+name: "mywebpage"  
+author: "YOUR NAME"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "My First Webpage"
