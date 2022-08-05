@@ -13,9 +13,13 @@ output:
 navbar:
   title: "Sunoj Shajahan"
   left:
-    - text: "About"
-      href: about.html
     - text: "Home"
       href: index.html
-    
-    
+    - text: "Publications"
+      href: publications.html
+    # - text: "Course material"
+    #   menu:
+    #   - text: "GIS course"
+    #   - text: "First chapter"
+    #     href: chapter1.html
+    # 

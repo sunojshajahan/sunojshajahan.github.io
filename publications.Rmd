@@ -1,13 +1,19 @@
 ---
 title: ""
+output:
+  html_document:
+    # toc: true
+    theme: default
+    # toc_float: true
 ---
 
-## **Peer-reviewed journal publications** --- [Google Scholar](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) <br>
+## **Peer-reviewed journal publications**  
 
+<!-- [<img src="https://img.icons8.com/color/50/FAB005/google-scholar--v3.png"/>](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) -->
 
-<!-- \begin{enumerate} [itemsep=-0.5ex] -->
+For the updated list of my publications, please check my [GoogleScholar](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) profile:
 
-1. **Sunoj, S.**, Cho, J., Guinness, J., van Aardt, J., Czymmek, K., and Ketterings, Q.M. 2021 Corn grain yield prediction and mapping from unmanned aerial system (UAS) multispectral imagery. _Remote Sensing_, 13: 3948. [Link](https://doi.org/10.3390/rs13193948)
+1. **Sunoj, S.**, Cho, J., Guinness, J., van Aardt, J., Czymmek, K., and Ketterings, Q.M. 2021 [Corn grain yield prediction and mapping from unmanned aerial system (UAS) multispectral imagery](https://doi.org/10.3390/rs13193948). _Remote Sensing_, 13: 3948.
 
 2. Berlingeri, J.M., Lawrence, J.R., **Sunoj, S.**, Czymmek, K.J., and Ketterings, Q.M. 2021. Nitrogen and phosphorus balances vary at the whole-farm, field, and within-field scales. _Frontiers in Sustainability, section Sustainable Supply Chain Management_, 2: 747883. [Link](https://doi.org/10.3389/frsus.2021.747883)
 
@@ -16,7 +22,7 @@ title: ""
 
 4. **Sunoj, S.**, McRoberts, K.C., Benson, M., and Ketterings, Q.M. 2021. Digital image analysis estimates of biomass, carbon, and nitrogen uptake of winter cereal cover crops. _Computers and Electronics in Agriculture_, 184: 106093. [Link](https://www.sciencedirect.com/science/article/pii/S0168169921001113)
 
-5. Cho, J., Guinness, J., Kharel, T.P., **Sunoj, S.**, Kharel, D., Oware, E., Aardt, J.V., and Ketterings, Q.M. 2021. Spatial estimation methods for mapping corn yield monitor data. _Precision Agriculture_, 1--20. [Link](https://doi.org/10.1007/s11119-021-09793-z)
+5. Cho, J., Guinness, J., Kharel, T.P., **Sunoj, S.**, Kharel, D., Oware, E., Aardt, J.V., and Ketterings, Q.M. 2021. [Spatial estimation methods for mapping corn yield monitor data](https://doi.org/10.1007/s11119-021-09793-z). _Precision Agriculture_, 1--20.
 
 <!-- \item **Sunoj, S.**, Kharel, D., Kharel, T.{P}.., Cho, J., Czymmek, K., and Ketterings, Q.M. 2021. Impact of headland area on whole field and farm corn silage and grain yield. \textit{Agronomy Journal}, 113: 147--158.  -->
 
