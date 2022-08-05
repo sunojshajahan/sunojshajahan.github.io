@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Publications"
 output:
   html_document:
     # toc: true
@@ -7,11 +7,12 @@ output:
     # toc_float: true
 ---
 
-## **Peer-reviewed journal publications**  
+For the updated list of my publications including my Ph.D. dissertation, extension articles, and popular press articles please check my [GoogleScholar](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) profile:
+
+## **Journal publications**  
 
 <!-- [<img src="https://img.icons8.com/color/50/FAB005/google-scholar--v3.png"/>](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) -->
 
-For the updated list of my publications, please check my [GoogleScholar](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) profile:
 
 1. **Sunoj, S.**, Cho, J., Guinness, J., van Aardt, J., Czymmek, K., and Ketterings, Q.M. 2021 [Corn grain yield prediction and mapping from unmanned aerial system (UAS) multispectral imagery](https://doi.org/10.3390/rs13193948). _Remote Sensing_, 13: 3948.
 
