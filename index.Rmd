@@ -11,9 +11,9 @@ output:
 library(fontawesome)
 ```
 
-# **Sunoj Shajahan** <br>
+![](./images/myphoto.jpg#right){width=45%}
 
-![](./images/myphoto.jpg#right){width=40%}
+# **Sunoj Shajahan** <br>
 
 ### Postdoctoral associate <br>
 [Nutrient Management Spear Program](http://nmsp.cals.cornell.edu/), <br>
