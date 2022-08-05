@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Sunoj Shajahan"
 output:
   html_document:
     # toc: true
@@ -13,7 +13,7 @@ library(fontawesome)
 
 ![](./images/myphoto.jpg#right){width=45%}
 
-# **Sunoj Shajahan** <br>
+<!-- # **Sunoj Shajahan** <br> -->
 
 ### Postdoctoral associate <br>
 [Nutrient Management Spear Program](http://nmsp.cals.cornell.edu/), <br>
@@ -30,6 +30,10 @@ Email: ss2678[at]cornell.edu <br>
 I work on precision agriculture projects at NMSP, particularly on developing an alternative approach to estimate and predict corn grain and silage yield at the sub-field level. I make use of time-series aerial imageries from unmanned aerial systems (UAS) and low earth orbit satellites. Along with these imageries, I am interested in understanding the interaction between other data layers, such as weather, topography, and landforms, with the yield monitor data. My goal is to develop farm-specific yield models by training with multi-year yield monitor data and remotely sensed data layers. I am exploring big data analytics using cloud computing to analyze and build such models.
 
 <!-- ![](./images/myphoto.jpg#right){width=45%} -->
+
+### News
+August 4, 2022:
+- The interns at NMSP team organized a picnic for all of us as it was their last day with us for this summer semester. 
 
 
 
