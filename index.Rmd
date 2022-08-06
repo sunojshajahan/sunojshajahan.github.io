@@ -2,6 +2,7 @@
 title: "Sunoj Shajahan"
 output:
   html_document:
+    set_title: "My Title!"
     # toc: true
     theme: default
     # toc_float: true
