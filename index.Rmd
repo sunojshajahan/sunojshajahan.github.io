@@ -32,9 +32,27 @@ I work on precision agriculture projects at NMSP, particularly on developing an 
 
 <!-- ![](./images/myphoto.jpg#right){width=45%} -->
 
-### News
-August 4, 2022:
-- The interns at NMSP team organized a picnic for all of us as it was their last day with us for this summer semester. 
+### Updates
+
++ August 19, 2022:
+My intern, [Ibtida Ahmed](./images/Ibtida_1.jpeg), Junior at SUNY, Buffalo, completed his internship with us. Good luck for his new semester!.
+<!-- ![](./images/Ibtida_1.jpeg#center){height=15%} -->
+
++ August 5, 2022:
+The interns at NMSP organized a [picnic at Stewart Park](./images/Interns_social_Aug52022.jpeg) on their last day with us for this summer semester.
+<!-- ![](./images/Interns_social_Aug52022.jpeg#center){width=65%} -->
+
++ August 4, 2022:
+Aileen Randolph from [New York Farm Viability Institute](https://nyfvi.org/) joined our [team meeting](./images/Aileen_NYFVI_Aug42022.jpeg) and gave us a talk about grant funding opportunities at NYFVI.
+
+<!-- ![](./images/Aileen_NYFVI_Aug42022.jpeg#center){width=65%} -->
+
++ August 4, 2022:
+Interns at NMSP wrapped up their stint with us with a [mini symposium](./images/Intern_wrap_Aug42022.jpeg).
+
+
+<!-- ![](./images/Intern_wrap_Aug42022.jpeg#center){width=65%} -->
+
 
 
 
