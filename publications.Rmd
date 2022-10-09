@@ -33,7 +33,7 @@ For the updated list of my publications including my Ph.D. dissertation, extensi
 8. Ajayi-Banji, A.A., Rahman, S., **Sunoj, S.**, and Igathinathane, C. 2020. [Impact of corn stover particle size and C/N ratio on reactor performance in solid-state anaerobic co-digestion with dairy manure](https://doi.org/10.1080/10962247.2020.1729277). _Journal of the Air \& Waste Management Association_, 70(4): 436--454.
 
 
-9. Pandiselvam, R., Manikantan, S., **Sunoj, S.**, Sreejith, S., and Beegum, S., 2019. [Modeling of coconut milk residue incorporated rice‐corn extrudates properties using multiple linear regression and artificial neural network](https://doi.org/10.1111/jfpe.12981). _Journal of Food Process Engineering}, 42(2): e12981.
+9. Pandiselvam, R., Manikantan, S., **Sunoj, S.**, Sreejith, S., and Beegum, S., 2019. [Modeling of coconut milk residue incorporated rice‐corn extrudates properties using multiple linear regression and artificial neural network](https://doi.org/10.1111/jfpe.12981). _Journal of Food Process Engineering_, 42(2): e12981.
 
 10. **Sunoj, S.**, Igathinathane, C., N. Saliendra, J. Hendrickson, and Archer, D. 2018. [Color calibration of digital images for agricultural and other applications](https://doi.org/10.1016/j.isprsjprs.2018.09.015). _ISPRS Journal of Photogrammetry and Remote Sensing_, 146: 221--234.
 
