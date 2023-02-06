@@ -16,7 +16,7 @@ library(fontawesome)
 
 <!-- # **Sunoj Shajahan** <br> -->
 
-### Postdoctoral Associate <br>
+### Research Associate <br>
 [Nutrient Management Spear Program](http://nmsp.cals.cornell.edu/), <br>
 [Department of Animal Science](https://cals.cornell.edu/sunoj-shajahan), <br>
 Cornell University, Ithaca, NY 14853. <br>

@@ -13,7 +13,7 @@
 
 <title>about.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -264,15 +268,39 @@ $(document).ready(function () {
 </div>
 
 
-<div id="peer-reviewed-journal-publications-google-scholar" class="section level2">
-<h2><strong>Peer-reviewed journal publications</strong> — <a href="https://scholar.google.com/citations?user=PSu2s7YAAAAJ&amp;hl=en">Google Scholar</a> <br></h2>
+<div id="peer-reviewed-journal-publications-google-scholar"
+class="section level2">
+<h2><strong>Peer-reviewed journal publications</strong> — <a
+href="https://scholar.google.com/citations?user=PSu2s7YAAAAJ&amp;hl=en">Google
+Scholar</a> <br></h2>
 <!-- \begin{enumerate} [itemsep=-0.5ex] -->
 <ol style="list-style-type: decimal">
-<li><p><strong>Sunoj, S.</strong>, Cho, J., Guinness, J., van Aardt, J., Czymmek, K., and Ketterings, Q.M. 2021 Corn grain yield prediction and mapping from unmanned aerial system (UAS) multispectral imagery. <em>Remote Sensing</em>, 13: 3948. <a href="https://doi.org/10.3390/rs13193948">Link</a></p></li>
-<li><p>Berlingeri, J.M., Lawrence, J.R., <strong>Sunoj, S.</strong>, Czymmek, K.J., and Ketterings, Q.M. 2021. Nitrogen and phosphorus balances vary at the whole-farm, field, and within-field scales. <em>Frontiers in Sustainability, section Sustainable Supply Chain Management</em>, 2: 747883. <a href="https://doi.org/10.3389/frsus.2021.747883">Link</a></p></li>
-<li><p><strong>Sunoj, S.</strong>, Hammed, A., Igathinathane, C., Eshkhabilov, S., and Simsek, H. 2021. Identification, quantification, and growth profiling of eight different microalgae species using image analysis. <em>Algal Research</em>, 60: 102487. <a href="https://doi.org/10.1016/j.algal.2021.102487">Link</a></p></li>
-<li><p><strong>Sunoj, S.</strong>, McRoberts, K.C., Benson, M., and Ketterings, Q.M. 2021. Digital image analysis estimates of biomass, carbon, and nitrogen uptake of winter cereal cover crops. <em>Computers and Electronics in Agriculture</em>, 184: 106093. <a href="https://www.sciencedirect.com/science/article/pii/S0168169921001113">Link</a></p></li>
-<li><p>Cho, J., Guinness, J., Kharel, T.P., <strong>Sunoj, S.</strong>, Kharel, D., Oware, E., Aardt, J.V., and Ketterings, Q.M. 2021. Spatial estimation methods for mapping corn yield monitor data. <em>Precision Agriculture</em>, 1–20. <a href="https://doi.org/10.1007/s11119-021-09793-z">Link</a></p></li>
+<li><p><strong>Sunoj, S.</strong>, Cho, J., Guinness, J., van Aardt, J.,
+Czymmek, K., and Ketterings, Q.M. 2021 Corn grain yield prediction and
+mapping from unmanned aerial system (UAS) multispectral imagery.
+<em>Remote Sensing</em>, 13: 3948. <a
+href="https://doi.org/10.3390/rs13193948">Link</a></p></li>
+<li><p>Berlingeri, J.M., Lawrence, J.R., <strong>Sunoj, S.</strong>,
+Czymmek, K.J., and Ketterings, Q.M. 2021. Nitrogen and phosphorus
+balances vary at the whole-farm, field, and within-field scales.
+<em>Frontiers in Sustainability, section Sustainable Supply Chain
+Management</em>, 2: 747883. <a
+href="https://doi.org/10.3389/frsus.2021.747883">Link</a></p></li>
+<li><p><strong>Sunoj, S.</strong>, Hammed, A., Igathinathane, C.,
+Eshkhabilov, S., and Simsek, H. 2021. Identification, quantification,
+and growth profiling of eight different microalgae species using image
+analysis. <em>Algal Research</em>, 60: 102487. <a
+href="https://doi.org/10.1016/j.algal.2021.102487">Link</a></p></li>
+<li><p><strong>Sunoj, S.</strong>, McRoberts, K.C., Benson, M., and
+Ketterings, Q.M. 2021. Digital image analysis estimates of biomass,
+carbon, and nitrogen uptake of winter cereal cover crops. <em>Computers
+and Electronics in Agriculture</em>, 184: 106093. <a
+href="https://www.sciencedirect.com/science/article/pii/S0168169921001113">Link</a></p></li>
+<li><p>Cho, J., Guinness, J., Kharel, T.P., <strong>Sunoj, S.</strong>,
+Kharel, D., Oware, E., Aardt, J.V., and Ketterings, Q.M. 2021. Spatial
+estimation methods for mapping corn yield monitor data. <em>Precision
+Agriculture</em>, 1–20. <a
+href="https://doi.org/10.1007/s11119-021-09793-z">Link</a></p></li>
 </ol>
 <!-- \item **Sunoj, S.**, Kharel, D., Kharel, T.{P}.., Cho, J., Czymmek, K., and Ketterings, Q.M. 2021. Impact of headland area on whole field and farm corn silage and grain yield. \textit{Agronomy Journal}, 113: 147--158.  -->
 <!-- %\item **Sunoj, S.**, Igathinathane, C., Saliendra, N., Hendrickson, J., Archer, D., and Liebig, M. 2020. PhenoCam guidelines for phenology measurement and analysis in agricultural cropping environment: A case study of soybean. \textit{Agricultural and Forest Meterology}. Accepted. Journal Impact factor = 4.65; Citations = NA; Reads = NA. -->
@@ -293,7 +321,12 @@ $(document).ready(function () {
 <div id="published-book-chapters" class="section level2">
 <h2><strong>Published book chapters</strong></h2>
 <ol style="list-style-type: decimal">
-<li>Subhashree, S.N., <strong>Sunoj, S.</strong>, Hassanijalilian, O., and Igathinathane, C. 2020. Decoding common machine learning methods: Agricultural application case studies using open source software. <em>Applied Intelligent Decision Making in Machine Learning</em>. Taylor &amp; Francis Group. pp 21–52. <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003049548-2/decoding-common-machine-learning-methods-srinivasagan-subhashree-sunoj-oveis-hassanijalilian-igathinathane?context=ubx&amp;refId=2f8b3eb3-45b2-4b6a-b3c6-6b5c9b5d61ad">Link</a></li>
+<li>Subhashree, S.N., <strong>Sunoj, S.</strong>, Hassanijalilian, O.,
+and Igathinathane, C. 2020. Decoding common machine learning methods:
+Agricultural application case studies using open source software.
+<em>Applied Intelligent Decision Making in Machine Learning</em>. Taylor
+&amp; Francis Group. pp 21–52. <a
+href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003049548-2/decoding-common-machine-learning-methods-srinivasagan-subhashree-sunoj-oveis-hassanijalilian-igathinathane?context=ubx&amp;refId=2f8b3eb3-45b2-4b6a-b3c6-6b5c9b5d61ad">Link</a></li>
 </ol>
 </div>
 
