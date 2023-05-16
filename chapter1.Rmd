@@ -8,3 +8,39 @@ output:
 ---
 
 # Chapter 1 here.. 
+
+```{r, eval=FALSE}
+
+library(tidyr)
+library(sf)
+
+```
+
+
+## Creating landforms from DEM
+
+```{r, eval=FALSE}
+
+# This is where you will load the DEM image
+
+```
+
+
+## Testing summary
+
+```{r}
+
+summary(cars)
+
+```
+
+
+## Testing python here
+
+```{r}
+
+print("Hello World")
+
+```
+
+
