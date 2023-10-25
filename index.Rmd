@@ -16,11 +16,10 @@ library(fontawesome)
 
 <!-- # **Sunoj Shajahan** <br> -->
 
-### Research Associate <br>
-[Nutrient Management Spear Program](http://nmsp.cals.cornell.edu/), <br>
-[Department of Animal Science](https://cals.cornell.edu/sunoj-shajahan), <br>
-Cornell University, Ithaca, NY 14853. <br>
-Email: ss2678[at]cornell.edu <br>
+### Assistant Professor <br>
+[Agricultural and Biological Engineering](https://abe.illinois.edu/directory/sunoj), <br>
+University of Illinois Urbana-Champaign, Urbana, IL 61801. <br>
+Email: sunoj[at]illinois.edu <br>
 
 # [`r fa("github", fill = "black")`](https://github.com/sunojshajahan)     [`r fa("twitter", fill = "#1DA1F2")`](https://twitter.com/sunojshajahan)  [`r fa("researchgate", fill = "#0cb")`](https://www.researchgate.net/profile/Sunoj-Shajahan-2)    
 
@@ -28,7 +27,11 @@ Email: ss2678[at]cornell.edu <br>
 
 
 ### My research
-I work on precision agriculture projects at NMSP, particularly on using remotely sensed imageries to estimate and predict corn grain and silage yield at the sub-field level. I make use of time-series aerial imageries from unmanned aerial systems (UAS) and low earth orbit satellites. Along with these imageries, I am interested in understanding the interaction between other data layers, such as weather, topography, and landforms, with the yield monitor data. My goal is to develop farm-specific yield models by training with multi-year yield monitor data and remotely sensed data layers. I am exploring big data analytics using cloud computing to analyze and build such models.
+I am an Assistant Professor in the Department of Agricultural and Biological Engineering at the University of Illinois Urbana-Champaign, IL, specializing in Computational Engineering for Precision Agriculture. My research centers on utilizing advanced data analytics to process multi-source geospatial data, including machine learning and deep learning. I am dedicated to developing data-driven decision support tools for agriculture that operate in near real-time. 
+
+I am passionate about leveraging free and open-source software (FOSS) platforms for geospatial data analysis and tool development. I create workflows for analyzing geospatial data and images in QGIS, R, ImageJ, and Python. I believe the open source culture ensures widespread access and fosters transparency, credibility, and practicality for farmers.
+
+Previously, my efforts were on predicting field-scale corn yield and mapping variability using drone and satellite imagery. I am interested in adding other data layers like weather, topography, and equipment log data to understand the crop growing dynamics in the growing season. 
 
 <!-- ![](./images/myphoto.jpg#right){width=45%} -->
 
