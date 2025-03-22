@@ -1,6 +1,10 @@
 ---
-layout: default
-title: Publications
+output:
+  html_document:
+    set_title: "Publications"
+    # toc: true
+    theme: default
+    # toc_float: true
 ---
 For the updated list of my publications including my Ph.D. dissertation, extension articles, and popular press articles please check my [GoogleScholar](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) profile:
 
