@@ -4,6 +4,6 @@ title: About
 ---
 
 <!-- ![](./images/Lab_group_photo_030325.jpg) -->
-# This is About Page
+# This is the About Page
 
 To be filled
