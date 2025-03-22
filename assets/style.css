@@ -15,12 +15,16 @@ nav a {
 }
 .content {
     padding: 20px;
-}
-
-/* Set margins for the publications page */
-.publications-content {
     margin-left: 20px;  /* Left margin */
     margin-right: 20px; /* Right margin */
     margin-top: 10px;   /* Top margin */
     margin-bottom: 10px; /* Bottom margin */
 }
+
+/* Set margins for the publications page */
+/* .publications-content {
+    margin-left: 20px;  
+    margin-right: 20px; 
+    margin-top: 10px;   
+    margin-bottom: 10px; 
+} */
