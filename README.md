@@ -1,2 +1,3 @@
-# sunojshajahan.github.io
-Personal website
+# Digital Precision Agriculture Lab
+
+Please visit sunojshajahan.github.io
