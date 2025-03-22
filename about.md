@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Home
+title: About
 ---
+
+![](./images/Lab_group_photo_030325.jpg)
+
 # Welcome to the Digital Precision Agriculture Lab!  
 
 I am an Assistant Professor in the [Department of Agricultural and Biological Engineering](https://abe.illinois.edu/) at the University of Illinois Urbana-Champaign, where I specialize in **Computational Engineering for Digital Precision Agriculture**. My research focuses on harnessing **advanced data analytics** and **AI algorithms**—ranging from simple models to computationally-intensive AI techniques to process and interpret multi-source sensor data. These data streams include:  
