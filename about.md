@@ -1,6 +1,6 @@
 ---
 layout: default
-theme: default
+remote_theme: "jekyll/minima@1e8a445"
 title: About
 ---
 
