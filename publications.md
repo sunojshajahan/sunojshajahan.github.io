@@ -6,9 +6,31 @@ For the updated list of my publications including my Ph.D. dissertation, extensi
 
 ## **Journal publications**  
 
-<!-- [<img src="https://img.icons8.com/color/50/FAB005/google-scholar--v3.png"/>](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) -->
+<ol reversed>
+    <li>
+        <strong>Sunoj, S.</strong>, Hammed, A., Igathinathane, C., Eshkabilov, S., & Simsek, H. (2021). 
+        <a href="https://doi.org/10.1016/j.algal.2021.102487">Identification, quantification, and growth profiling of eight different microalgae species using image analysis</a>. 
+        <em>Algal Research</em>, 60, 102487.
+    </li>
+    <li>
+        <strong>Sunoj, S.</strong>, Cho, J., Guinness, J., van Aardt, J., Czymmek, K., and Ketterings, Q.M. 2021. 
+        <a href="https://doi.org/10.3390/rs13193948">Corn grain yield prediction and mapping from unmanned aerial system (UAS) multispectral imagery</a>. 
+        <em>Remote Sensing</em>, 13: 3948.
+    </li>
+    <li>
+        Berlingeri, J.M., Lawrence, J.R., <strong>Sunoj, S.</strong>, Czymmek, K.J., and Ketterings, Q.M. 2021. 
+        <a href="https://doi.org/10.3389/frsus.2021.747883">Nitrogen and phosphorus balances vary at the whole-farm, field, and within-field scales</a>. 
+        <em>Frontiers in Sustainability, section Sustainable Supply Chain Management</em>, 2: 747883.
+    </li>
+    <li>
+        <strong>Sunoj, S.</strong>, Hammed, A., Igathinathane, C., Eshkhabilov, S., and Simsek, H. 2021. 
+        <a href="https://doi.org/10.1016/j.algal.2021.102487">Identification, quantification, and growth profiling of eight different microalgae species using image analysis</a>. 
+        <em>Algal Research</em>, 60: 102487.
+    </li>
+</ol>
 
-19. 
+
+1.  
 
 18. **Sunoj, S.**, Hammed, A., Igathinathane, C., Eshkabilov, S., & Simsek, H. (2021). [Identification, quantification, and growth profiling of eight different microalgae species using image analysis](https://doi.org/10.1016/j.algal.2021.102487). _Algal Research_, 60, 102487.
 
@@ -57,5 +79,10 @@ For the updated list of my publications including my Ph.D. dissertation, extensi
 ## **Book chapters**
 
 1. Subhashree, S.N., **Sunoj, S.**, Hassanijalilian, O., and  Igathinathane, C. 2020. [Decoding common machine learning methods: Agricultural application case studies using open source software](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003049548-2/decoding-common-machine-learning-methods-srinivasagan-subhashree-sunoj-oveis-hassanijalilian-igathinathane?context=ubx&refId=2f8b3eb3-45b2-4b6a-b3c6-6b5c9b5d61ad). _Applied Intelligent Decision Making in Machine Learning_. Taylor \& Francis Group. pp 21--52. 
+
+
+
+
+[<img src="https://img.icons8.com/color/50/FAB005/google-scholar--v3.png"/>](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en)
 
 
