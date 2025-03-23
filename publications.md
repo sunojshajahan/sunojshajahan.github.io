@@ -45,7 +45,7 @@ For the updated list of my publications including my Ph.D. dissertation, extensi
 
 3. Shidenur, H.T., Mathew, S.M., Sankalpa, K.B., Pandiselvam, R., and **Sunoj, S.** 2017. [Engineering Properties of Jackfruit (_Artocarpus heterophyllus_ L.)](https://indianjournals.com/ijor.aspx?target=ijor:aet&volume=41&issue=1&article=009). _Agricultural Engineering Today_, 41(1): 56--60.
 
-2. Pandiselvam, R., **Sunoj, S.**, Manikantan, M.R., Kothakota, A., and Hebbar, K.B. 2016. [Application and kinetics of ozone in food preservation](https://doi.org/10.1080/01919512.2016.1268947). _Ozone: Science \& Engineering_, 39(2): 115--126.
+2. Pandiselvam, R., **Sunoj, S.**, Manikantan, M.R., Kothakota, A., and Hebbar, K.B. 2016. [Application and kinetics of ozone in food preservation](https://doi.org/10.1080/01919512.2016.1268947). _Ozone: Science & Engineering_, 39(2): 115--126.
 
 1. **Sunoj, S.**, Igathinathane, C., and Visvanathan, R. 2016. [Nondestructive determination of cocoa bean quality using FT-NIR spectroscopy](https://doi.org/10.1016/j.compag.2016.04.012). _Computers and Electronics in Agriculture_,124: 234--242.
 
