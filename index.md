@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Welcome to the Digital Precision Agriculture Lab!"
 output:
   html_document:
     set_title: "My Title!"
@@ -20,28 +20,28 @@ Email: sunoj[at]illinois.edu <br>
 <!-- [Sunoj Shajahan CV](SunojCV_October10_2022.pdf) -->
 
 ![](./images/Lab_group_photo_030325.jpg)
+<p style="text-align: center;"> <em>The strength of the team is each individual member. The strength of each member is the team - Phil Jackson</em> </p>
 
-# Welcome to the Digital Precision Agriculture Lab!  
 
-The lab is located in the AESB 236 at the [Department of Agricultural and Biological Engineering](https://abe.illinois.edu/) at the University of Illinois Urbana-Champaign, where I specialize in **Computational Engineering for Digital Precision Agriculture**. My research focuses on harnessing **advanced data analytics** and **AI algorithms**—ranging from simple models to state-of-the-art (SOTA) techniques—to process and interpret multi-source sensor data. These data streams include:  
+<!-- # Welcome to the Digital Precision Agriculture Lab!   -->
+
+The Digital Precision Agriculture lab is located in the [Agricultural Engineering Sciences building](https://maps.app.goo.gl/RmhaJGFe6cYfWJEN7) at Room \#236 at the [Department of Agricultural and Biological Engineering](https://abe.illinois.edu/) at the University of Illinois Urbana-Champaign, where I specialize in **Computational Engineering for Digital Precision Agriculture**. My research focuses on harnessing **advanced data analytics** and **AI algorithms**—ranging from simple models to state-of-the-art (SOTA) techniques—to process and interpret multi-source sensor data. These data streams include:  
 - **Remotely sensed imagery** (leveraging free and open-access platforms),  
 - **Robotics sensing data** (collected using the Farm-ng Amiga platform), and  
 - **Machine sensing** (from vision cameras mounted on agricultural equipment).  
 
-I am dedicated to developing **data-driven decision support tools** that empower farmers and stakeholders to make informed decisions ranging from seasonal management, understanding legacy effects, or enabling near real-time interventions. By bridging the gap between technology and agriculture, our work aims to create innovative, practical, and impactful solutions for agriculture.  
+We are dedicated to developing **data-driven decision support tools** that empower farmers and stakeholders to make informed decisions ranging from seasonal management, understanding legacy effects, or enabling near real-time decision. By bridging the gap between technology and agriculture, our work aims to create innovative, practical, and impactful solutions for agriculture.  
 
 ## Passion for open source in agriculture
 
-I am deeply passionate about leveraging **Free and Open-Source Software (FOSS)** platforms for geospatial data analysis and tool development. I design workflows for analyzing geospatial data and images using tools like **QGIS**, **R**, **ImageJ**, and **Python**. I firmly believe that the open-source culture promotes widespread access, fosters transparency, and ensures credibility and practicality for farmers and researchers alike.  
-
-## Previous work and future directions  
-
-In my previous research, I focused on predicting **field-scale corn yield** and mapping variability using **drone and satellite imagery**. Moving forward, I am excited to integrate additional data layers—such as **weather**, **topography**, and **equipment log data**—to deepen our understanding of crop growth dynamics throughout the growing season.  
+Our team is passionate about leveraging **Free and Open-Source Software (FOSS)** platforms for computer vision, geospatial analysis, and software tool development. We focus on designing workflows for analyzing images or any data formats from vision cameras or remotely sensed images using FOSS tools such as **QGIS**, **R**, **ImageJ**, and **Python**. We believe that the open-source culture promotes widespread access, fosters transparency, reproducibility, and ensures credibility and practicality for farmers and researchers.  
 
 ---
 
 Thank you for visiting! Explore our website to learn more about our **research areas**, meet our talented **team members**, and discover our **publications**, **awards**, and **events**. Together, we’re working toward a smarter, more sustainable future for agriculture.  
 
-## Lab updates
+## Lab Updates  
 
-+ March 2025: Our team is participating in the Farm Robotics Challenge 2025, organized by UCANR and Farm_ng.   
++ **March 2025**: Our team is excited to participate in the [Farm Robotics Challenge 2025](https://www.farmroboticschallenge.ai/2025), organized by UC Agriculture and Natural Resources and the AI Institute for Next Generation Food Systems (AIFS), with support from the Fresno-Merced Future of Food Initiative (F3).
+
++ **February 2025**: Our talented team member, [Pavan Kumar Dabilpuram](https://www.linkedin.com/in/pkd999/), has joined **Analog Devices** in Wilmington, MA. We are proud of his contributions to our lab and wish him the very best in this exciting new chapter!  

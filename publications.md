@@ -1,5 +1,5 @@
 ---
-remote_theme: "jekyll/minima@1e8a445"
+# remote_theme: "jekyll/minima@1e8a445"
 title: Publications
 ---
 For the updated list of my publications including my Ph.D. dissertation, extension articles, and popular press articles please check my [GoogleScholar](https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en) profile:
