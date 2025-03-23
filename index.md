@@ -4,7 +4,7 @@ output:
   html_document:
     set_title: "My Title!"
     # toc: true
-    theme: default
+    remote_theme: "jekyll/minima@1e8a445"
     # toc_float: true
 ---
 
