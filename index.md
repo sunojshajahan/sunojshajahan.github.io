@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 output:
   html_document:
     set_title: "My Title!"
