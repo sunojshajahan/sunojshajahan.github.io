@@ -1,10 +1,10 @@
 ---
-title: "Welcome to the Digital Precision Agriculture Lab!"
+title: "Home"
 output:
   html_document:
     set_title: "My Title!"
     # toc: true
-    theme: default
+    theme: "jekyll/minima@1e8a445"
     # toc_float: true
 ---
 
@@ -18,12 +18,11 @@ Email: sunoj[at]illinois.edu <br>
 # [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/sunojshajahan)     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sunojshajahan)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-0cb?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Sunoj-Shajahan-2)     -->
 
 <!-- [Sunoj Shajahan CV](SunojCV_October10_2022.pdf) -->
+# Welcome to the Digital Precision Agriculture Lab!  
 
 ![](./images/Lab_group_photo_030325.jpg)
 <p style="text-align: center;"> <em>The strength of the team is each individual member. The strength of each member is the team - Phil Jackson</em> </p>
 
-
-<!-- # Welcome to the Digital Precision Agriculture Lab!   -->
 
 The Digital Precision Agriculture lab is located in the [Agricultural Engineering Sciences building](https://maps.app.goo.gl/RmhaJGFe6cYfWJEN7) at Room \#236 at the [Department of Agricultural and Biological Engineering](https://abe.illinois.edu/) at the University of Illinois Urbana-Champaign, where I specialize in **Computational Engineering for Digital Precision Agriculture**. My research focuses on harnessing **advanced data analytics** and **AI algorithms**—ranging from simple models to state-of-the-art (SOTA) techniques—to process and interpret multi-source sensor data. These data streams include:  
 - **Remotely sensed imagery** (leveraging free and open-access platforms),  
