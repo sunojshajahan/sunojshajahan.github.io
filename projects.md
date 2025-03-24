@@ -4,6 +4,12 @@ title: Projects
 ---
 
 <!-- ![](./images/Lab_group_photo_030325.jpg) -->
-# This is the About Page
+# Current projects
 
-To be filled
+1. Horseradish mechanical weeding using robotics - Acknowledging AIFARMS. 
+2. Soil condition using SAR. 
+3. Generalized yield prediction using remote sensing.
+4. Field boundary delineation
+5. FDK detection - Crop Science
+6. CRW monitoring - Prairie Research Institute
+

@@ -2,6 +2,8 @@
 # layout: default
 title: People
 ---
+<!-- 
+      Sunoj was born and raised in Tamil Nadu, India, where he completed his undergraduate and master’s studies at Tamil Nadu Agricultural University, Coimbatore. His interest in sensing and automation began during his master’s work with FT-NIR spectroscopy. During his PhD at North Dakota State University, he developed four software tools for processing field images using FOSS, ImageJ. As a postdoctoral associate at Cornell University, he worked on remote sensing and data analysis for crop yield prediction. Sunoj joined UIUC in Fall 2023, and started the Digital Precision Agriculture Lab, which focuses on developing AI-driven, geospatial solutions for data-driven agriculture and precision technologies.  -->
 
 <!-- # Our team -->
 
@@ -12,7 +14,7 @@ title: People
     <div>
         <strong>Sunoj Shajahan </strong><br>
         Assistant Professor  <br>
-        Sunoj was born and raised in Tamil Nadu, India, where he completed his undergraduate and master’s studies at Tamil Nadu Agricultural University, Coimbatore. His interest in sensing and automation began during his master’s work with FT-NIR spectroscopy. During his PhD at North Dakota State University, he developed four software tools for processing field images using FOSS, ImageJ. As a postdoctoral associate at Cornell University, he worked on remote sensing and data analysis for crop yield prediction. Sunoj joined UIUC in Fall 2023, and started the Digital Precision Agriculture Lab, which focuses on developing AI-driven, geospatial solutions for data-driven agriculture and precision technologies. <br>
+        Sunoj was born and raised in Tamil Nadu, India. His interest for FOSS started during his PhD where he developed four software tools for processing field images using FOSS, ImageJ. Druing his period as a postdoctoral associate at Cornell University, he worked on remote sensing and data analysis for crop yield prediction. Sunoj joined UIUC in Fall 2023, and started the Digital Precision Agriculture Lab, which focuses on using precision technologies and developing data-driven practical and geospatial solutions for agriculture. <br>
         <a href="mailto:sunoj@illinois.edu">sunoj@illinois.edu</a> | <a href="https://www.linkedin.com/in/sunoj-shajahan-ph-d-23606190/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> | <a href="https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en" style="margin-left: 10px;"><i class="fa-brands fa-google-scholar"></i></a>
     </div>
 </div>
@@ -40,8 +42,8 @@ title: People
     <div>
         <strong>Sandesh Poudel </strong><br>
         Ph.D. student  <br>
-        Sandesh is originally from Nepal. He completed his B.E. Agricultural Engineering, Tribhuvan University, Nepal, Nepal and pursued his M.S. Agricultural Engineering, University of Georgia, before joining our team in Spring 2025. <br>
-        <a href="mailto:spoudel2@illinois.edu">spoudel2@illinois.edu</a> | <a href="https://www.linkedin.com/in/sandesh-poudel-733b59110/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
+        Sandesh is from Nepal. He completed his B.E. Agricultural Engineering, Tribhuvan University, Nepal, Nepal and pursued his M.S. Agricultural Engineering, University of Georgia, before joining our team in Spring 2025. <br>
+        <a href="mailto:spoudel2@illinois.edu">spoudel2@illinois.edu</a> | <a href="https://www.linkedin.com/in/sandesh-poudel-733b59110/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> | <a href="https://scholar.google.com/citations?user=LH3_qT0AAAAJ&hl=en" style="margin-left: 10px;"><i class="fa-brands fa-google-scholar"></i></a>
     </div>
 </div>
 
@@ -68,7 +70,7 @@ title: People
     <div>
         <strong>Janmejay Rathi </strong><br>
         MS, Robotics and Autonomy  <br>
-        Janmejay is from Nagpur. He completed his B.E. in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur and pursued his MS at UIUC. He graduated in Fall 2024 and joined our team as Robotics Engineer in Spring 2025. He is passionate about robtoics and working on integrating components for a horseradish weeding project. <br>
+        Janmejay is from Nagpur, India. He completed his B.E. in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur and pursued his MS at UIUC. He graduated in Fall 2024 and joined our team as Robotics Engineer in Spring 2025. He is passionate about robtoics and working on integrating components for a horseradish weeding project. <br>
         <a href="mailto:email@example.com">jurathi2@illinois.edu</a> | <a href="https://www.linkedin.com/in/janmejayrathi/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
     </div>
 </div>
