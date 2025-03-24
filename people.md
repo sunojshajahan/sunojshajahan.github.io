@@ -13,21 +13,22 @@ title: People
         <strong>Sunoj Shajahan </strong><br>
         Assistant Professor  <br>
         Sunoj is born and raised from India.  <br>
-        [sunoj@illinois.edu](mailto:sunoj@illinois.edu) | 
+        <a href="mailto:sunoj@illinois.edu">sunoj@illinois.edu</a> | <a href="https://www.linkedin.com/in/sunoj-shajahan-ph-d-23606190/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>  
     </div>
 </div>
 
 ---
+
 ## Graduate students
-<!-- ### Person 1 -->
+<!-- Lora -->
 
 <div style="display: flex; align-items: center;">
     <img src="images/Lora_headshot.jpg" alt="Lora Mohanty" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Lora Mohanty </strong><br>
         Ph.D. student  <br>
-        Lora is originally from Bhuvaneshwar, India. She completed her M.Tech. in Agro Rural Studies at IIT Guwahati in 2024 and joined our team in Fall 2024. <br>
-        <a href="mailto:loram3@illinois.edu">loram3@illinois.edu</a>
+        Lora is from Bhubaneswar, India. She completed her M.Tech. in Agro Rural Studies at IIT Guwahati in 2024 and joined our team in Fall 2024. <br>
+        <a href="mailto:loram3@illinois.edu">loram3@illinois.edu</a> | <a href="https://www.linkedin.com/in/lora-mohanty-aa4301249/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>  
     </div>
 </div>
 
@@ -52,8 +53,8 @@ title: People
     <img src="images/Zhang_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Xiaoyu Zhang </strong><br>
-        MS student  <br>
-        Zhang is originally from China. He completed his B.E. Agricultural Engineering, Tribhuvan University, Nepal, Nepal and pursued his M.S. Agricultural Engineering, University of Georgia, before joining our team in Spring 2025. <br>
+        MS student, ABE  <br>
+        Zhang is from China. His research interests are in satellite image analysis, geospatial analysis, and machine learning. His MS thesis focuses on “Generalizing yield prediction and identifying key factors to improve the accuracy of prediction.”  <br>
         <a href="mailto:xiaoyu26@illinois.edu">xiaoyu26@illinois.edu</a>
     </div>
 </div>
@@ -95,12 +96,26 @@ title: People
     <div>
         <strong>Seth Van Hoveln </strong><br>
         Senior, Engineering Technology Management in Agricultural Sciences  <br>
-        Seth is Milford, IL. He comes from a farm background and an expert in precision agriculture. <br>
+        Seth is Milford, IL. He comes from a farm background and an expert in precision agriculture. He will graduate in Spring 2025, and is intersted in pursuing a MS and joining our team as a graduate student in Fall 2025. <br>
         <a href="mailto:sethtv2@illinois.edu">sethtv2@illinois.edu</a>        
     </div>
 </div>
 
 ---
+
+<!-- Jusjeev -->
+<div style="display: flex; align-items: center;">
+    <img src="images/profile_photo_template.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <div>
+        <strong>Jusjeev Bhurjee </strong><br>
+        Senior, Computer Science  <br>
+        Jusjeev is from Punjab, India. He has spent most of his time outside of India, pursuing his schooling in Argentina, and South Africa. He is involved in robotics project and has been developing an autonomous navigation algorithm for the Amiga platform. <br>
+        <a href="mailto:bhurjee2@illinois.edu">bhurjee2@illinois.edu</a>        
+    </div>
+</div>
+
+---
+
 
 <!-- Advait -->
 <div style="display: flex; align-items: center;">
@@ -108,8 +123,8 @@ title: People
     <div>
         <strong>Advait Talhayani </strong><br>
         Sophomore, Computer Science  <br>
-        Adviat is from Mumbai, India. <br>
-        <a href="mailto:sethtv2@illinois.edu">sethtv2@illinois.edu</a>        
+        Adviat is from Mumbai, India. He works on a project focusing on developing a segmetation model for identifying corn ears from a video footage collected on a combine harvester. <br>
+        <a href="mailto:advaitt3@illinois.edu">advaitt3@illinois.edu</a>        
     </div>
 </div>
 
