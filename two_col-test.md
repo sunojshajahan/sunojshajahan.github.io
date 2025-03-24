@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Updates
 ---
 
@@ -31,4 +31,4 @@ title: Updates
             <li><strong>December 10, 2024</strong>: Guest lecture by Dr. John Smith on machine learning in agriculture.</li>
         </ul>
     </div>
-</div>
+</div> -->
