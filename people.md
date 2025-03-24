@@ -13,7 +13,7 @@ title: People
         <strong>Sunoj Shajahan </strong><br>
         Assistant Professor  <br>
         Sunoj was born and raised in Tamil Nadu, India, where he completed his undergraduate and master’s studies at Tamil Nadu Agricultural University, Coimbatore. His interest in sensing and automation began during his master’s work with FT-NIR spectroscopy. During his PhD at North Dakota State University, he developed four software tools for processing field images using FOSS, ImageJ. As a postdoctoral associate at Cornell University, he worked on remote sensing and data analysis for crop yield prediction. Sunoj joined UIUC in Fall 2023, and started the Digital Precision Agriculture Lab, which focuses on developing AI-driven, geospatial solutions for data-driven agriculture and precision technologies. <br>
-        <a href="mailto:sunoj@illinois.edu">sunoj@illinois.edu</a> | <a href="https://www.linkedin.com/in/sunoj-shajahan-ph-d-23606190/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> | <a href="https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en" style="margin-left: 10px;"><i class="https://icons8.com/icon/drPiDBy9kkJ3/google-scholar"></i></a>
+        <a href="mailto:sunoj@illinois.edu">sunoj@illinois.edu</a> | <a href="https://www.linkedin.com/in/sunoj-shajahan-ph-d-23606190/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> | <a href="https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en" style="margin-left: 10px;"><i class="fa-brands fa-google-scholar"></i></a>
     </div>
 </div>
 
@@ -110,7 +110,7 @@ title: People
         <strong>Jusjeev Bhurjee </strong><br>
         Senior, Computer Science  <br>
         Jusjeev is from Punjab, India. He has spent most of his time outside of India, pursuing his schooling in Argentina, and South Africa. He is involved in robotics project and has been developing an autonomous navigation algorithm for the Amiga platform. <br>
-        <a href="mailto:bhurjee2@illinois.edu">bhurjee2@illinois.edu</a>        
+        <a href="mailto:bhurjee2@illinois.edu">bhurjee2@illinois.edu</a> | <a href="https://www.linkedin.com/in/jusjeevsingh/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>        
     </div>
 </div>
 
