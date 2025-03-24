@@ -27,7 +27,7 @@ title: People
         <strong>Lora Mohanty </strong><br>
         Ph.D. student  <br>
         Lora is originally from Bhuvaneshwar, India. She completed her M.Tech. in Agro Rural Studies at IIT Guwahati in 2024 and joined our team in Fall 2024. <br>
-        [loram3@illinois.edu](mailto:loram3@illinois.edu) | 
+        <a href="mailto:loram3@illinois.edu">loram3@illinois.edu</a>
     </div>
 </div>
 
@@ -40,7 +40,7 @@ title: People
         <strong>Sandesh Poudel </strong><br>
         Ph.D. student  <br>
         Sandesh is originally from Nepal. He completed his B.E. Agricultural Engineering, Tribhuvan University, Nepal, Nepal and pursued his M.S. Agricultural Engineering, University of Georgia, before joining our team in Spring 2025. <br>
-        [spoudel2@illinois.edu](mailto:spoudel2@illinois.edu) | 
+        <a href="mailto:spoudel2@illinois.edu">spoudel2@illinois.edu</a> | <a href="https://www.linkedin.com/in/sandesh-poudel-733b59110/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
     </div>
 </div>
 
@@ -54,9 +54,7 @@ title: People
         <strong>Xiaoyu Zhang </strong><br>
         MS student  <br>
         Zhang is originally from China. He completed his B.E. Agricultural Engineering, Tribhuvan University, Nepal, Nepal and pursued his M.S. Agricultural Engineering, University of Georgia, before joining our team in Spring 2025. <br>
-        <a href="mailto:email@example.com">email@example.com</a>  
-        <a href="https://www.linkedin.com/in/username" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>  
-        <a href="https://scholar.google.com/citations?user=USER_ID" style="margin-left: 10px;"><i class="ai ai-google-scholar"></i></a>  
+        <a href="mailto:xiaoyu26@illinois.edu">xiaoyu26@illinois.edu</a>
     </div>
 </div>
 
@@ -70,7 +68,7 @@ title: People
         <strong>Janmejay Rathi </strong><br>
         MS, Robotics and Autonomy  <br>
         Janmejay is from Nagpur. He completed his B.E. in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur and pursued his MS at UIUC. He graduated in Fall 2024 and joined our team as Robotics Engineer in Spring 2025. He is passionate about robtoics and working on integrating components for a horseradish weeding project. <br>
-        <a href="mailto:email@example.com">jurathi2@illinois.edu</a> | <a href="https://www.linkedin.com/in/username" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
+        <a href="mailto:email@example.com">jurathi2@illinois.edu</a> | <a href="https://www.linkedin.com/in/janmejayrathi/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
     </div>
 </div>
 
@@ -78,25 +76,40 @@ title: People
 
 ## Undergraduate students
 
+<!-- Hannah -->
 <div style="display: flex; align-items: center;">
     <img src="images/Hannah_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Hannah Surya Sundararajan </strong><br>
         Junior, Agricultural and Biological Engineering  <br>
-        Hannah is from Wisconsin. She was  <br>
-        [sethtv2@illinois.edu](mailto:sethtv2@illinois.edu) | 
+        Hannah is from Greater Milwaukee, Wisconsin. She is pursuing a dual degree in Agricultural & Biological Engineering and Spanish at the University of Illinois Urbana-Champaign, minoring in Geography and Geographic Information Sciences. She was also enlisted for 4 years in the Air National Guard as an Engineering Technician.  <br>
+        <a href="mailto:hss5@illinois.edu">hss5@illinois.edu</a> | <a href="https://www.linkedin.com/in/hannah-sundararajan/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
     </div>
 </div>
 
 ---
 
+<!-- Seth -->
 <div style="display: flex; align-items: center;">
     <img src="images/Seth_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Seth Van Hoveln </strong><br>
         Senior, Engineering Technology Management in Agricultural Sciences  <br>
         Seth is Milford, IL. He comes from a farm background and an expert in precision agriculture. <br>
-        [sethtv2@illinois.edu](mailto:sethtv2@illinois.edu) | 
+        <a href="mailto:sethtv2@illinois.edu">sethtv2@illinois.edu</a>        
+    </div>
+</div>
+
+---
+
+<!-- Advait -->
+<div style="display: flex; align-items: center;">
+    <img src="images/profile_photo_template.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <div>
+        <strong>Advait Talhayani </strong><br>
+        Sophomore, Computer Science  <br>
+        Adviat is from Mumbai, India. <br>
+        <a href="mailto:sethtv2@illinois.edu">sethtv2@illinois.edu</a>        
     </div>
 </div>
 
