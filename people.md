@@ -12,8 +12,8 @@ title: People
     <div>
         <strong>Sunoj Shajahan </strong><br>
         Assistant Professor  <br>
-        Sunoj is born and raised from India.  <br>
-        <a href="mailto:sunoj@illinois.edu">sunoj@illinois.edu</a> | <a href="https://www.linkedin.com/in/sunoj-shajahan-ph-d-23606190/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>  
+        Sunoj was born and raised in Tamil Nadu, India, where he completed his undergraduate and master’s studies at Tamil Nadu Agricultural University, Coimbatore. His interest in sensing and automation began during his master’s work with FT-NIR spectroscopy. During his PhD at North Dakota State University, he developed four software tools for processing field images using FOSS, ImageJ. As a postdoctoral associate at Cornell University, he worked on remote sensing and data analysis for crop yield prediction. Sunoj joined UIUC in Fall 2023, and started the Digital Precision Agriculture Lab, which focuses on developing AI-driven, geospatial solutions for data-driven agriculture and precision technologies. <br>
+        <a href="mailto:sunoj@illinois.edu">sunoj@illinois.edu</a> | <a href="https://www.linkedin.com/in/sunoj-shajahan-ph-d-23606190/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> | <a href="https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en" style="margin-left: 10px;"><i class="https://icons8.com/icon/drPiDBy9kkJ3/google-scholar"></i></a>
     </div>
 </div>
 
