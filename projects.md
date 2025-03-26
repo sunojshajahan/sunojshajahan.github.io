@@ -19,8 +19,10 @@ Illinois has a rich history as a leading producer of horseradish, dating back 15
 
 ---
 
-### 2. Potential of Synthetic APerture Radar (SAR) in agricultural applications
+### 2. Potential of Synthetic Aperture Radar (SAR) in agricultural applications
 ![](images/research_illustrations/SAR_infographic.jpg)
+
+<!-- <img src="images/research_illustrations/SAR_infographic.jpg" alt="your-image-description" style="border: 2px solid grey;"> -->
 
 Synthetic Aperture Radar (SAR) is a powerful yet underutilized tool in agricultural research. Sentinel-1A is a microwave remote sensing platform that provides high-resolution (10 m) imagery every five days. It offers all-weather, cloud-penetrating data in four bands (VV, HH, VH, HV). SAR measures surface backscatter properties, which can be used to study the impact of soil disturbances caused by various farming operations like tilling, planting, spraying, and harvesting in agriculture. This project will explore how temporal SAR data can be leveraged to analyze these surface changes, quantify soil properties such as moisture content, and assess erosion potential and topsoil depletion rates. 
 
