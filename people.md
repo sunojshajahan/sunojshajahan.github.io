@@ -63,6 +63,22 @@ title: People
 
 ---
 
+
+<!-- Abhi -->
+
+<div style="display: flex; align-items: center;">
+    <img src="images/Abhi_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <div>
+        <strong>Abhinav Pagadala </strong><br>
+        MS student, Statistics and Data Science  <br>
+        Abhi is from Manhattan, KS. He is part of the AIFARMS project on mechanical weeding project on horseradish. With his expertise, he is training and testing a few detection and segmentation models for navigation and weed removal. He is also finetuning certain models to make it light-weight and can run on smaller edge computing device. <br>
+        <a href="mailto:asp14@illinois.edu">asp14@illinois.edu</a> | <a href="https://www.linkedin.com/in/abhinav-pagadala-5201bb231/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
+    </div>
+</div>
+
+---
+
+
 <!-- Janmejay -->
 
 <div style="display: flex; align-items: center;">
