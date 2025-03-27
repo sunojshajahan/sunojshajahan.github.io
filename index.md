@@ -20,18 +20,18 @@ Email: sunoj[at]illinois.edu <br>
 
 The **Digital Precision Agriculture Lab** is located in **Room #236** of the [Agricultural Engineering Sciences Building](https://maps.app.goo.gl/RmhaJGFe6cYfWJEN7) at the [Department of Agricultural and Biological Engineering](https://abe.illinois.edu/), University of Illinois Urbana-Champaign. Here, we specialize in **Computational Engineering for Digital Precision Agriculture**.  
 
-We focus on both **fundamental and applied research**, ensuring a balance between theoretical exploration and practical implementation. Each project has its unique scope, ranging from **exploratory analysis based on theoretical principles** to the **real-time application of robotic weeding** and other advanced agricultural technologies.  
+We focus on both **fundamental and applied research**, maintaining a balance between theoretical exploration and practical implementation. Each project has its unique scope, ranging from **exploratory analysis based on theoretical principles** to the **real-time application of using robotic platforms** and other advanced agricultural technologies.  
 
-Our research focuses on harnessing **advanced data analytics** and **AI algorithms**—ranging from simple models to state-of-the-art (SOTA) techniques—to process and interpret multi-source sensor data. These data streams include:  
+Our research focuses on using **advanced data analytics** and **AI algorithms** ranging from simple models to state-of-the-art (SOTA) techniques—to process and interpret multi-source sensor data. These data streams include:  
 - **Remotely sensed imagery** (using free and open-access platforms),  
-- **Robotics sensing data** (collected via the Farm-ng Amiga platform), and  
+- **Robotics sensing data** (collected using the Farm-ng Amiga platform), and  
 - **Machine sensing** (from vision cameras mounted on agricultural equipment).  
 
-We are dedicated to developing **data-driven decision support tools** that empower farmers and stakeholders to make informed decisions—whether for seasonal management, understanding legacy effects, or enabling near real-time interventions. By bridging the gap between technology and agriculture, we aim to create innovative, practical, and impactful solutions that address the challenges of modern farming.  
+We are dedicated to developing **data-driven decision support tools** that empower farmers and stakeholders to make informed decisions, whether for seasonal management, understanding legacy effects, or enabling near real-time interventions. By bridging the gap between technology and agriculture, we aim to create innovative, practical, and impactful solutions that address the challenges of modern agriculture.  
 
 ## Passion for open source in agriculture
 
-Our team is passionate about leveraging **Free and Open-Source Software (FOSS)** platforms for computer vision, geospatial analysis, and software tool development. We focus on designing workflows for analyzing images or any data formats from vision cameras or remotely sensed images using FOSS tools such as **QGIS**, **R**, **ImageJ**, and **Python**. We believe that the open-source culture promotes widespread access, fosters transparency, reproducibility, and ensures credibility and practicality for farmers and researchers.  
+Our team is passionate about utilizing **Free and Open-Source Software (FOSS)** platforms for computer vision, geospatial analysis, and software tool development. We focus on designing workflows for analyzing images or any data formats from vision cameras or remotely sensed images using FOSS tools such as **QGIS**, **R**, **ImageJ**, and **Python**. We believe that the open-source culture promotes widespread access, fosters transparency, reproducibility, and ensures credibility and practicality for farmers and researchers.  
 
 <!-- Thank you for visiting! Explore our website to learn more about our **research areas**, meet our talented **team members**, and discover our **publications**, **awards**, and **events**. Together, we’re working toward a smarter, more sustainable future for agriculture.   -->
 
