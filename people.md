@@ -10,7 +10,7 @@ title: People
 ## Principal Investigator
 
 <div style="display: flex; align-items: center;">
-    <img src="images/Sunoj_2024_headshot.jpg" alt="Sunoj Shajahan" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Sunoj_2024_headshot.jpg" alt="Sunoj Shajahan" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Sunoj Shajahan </strong><br>
         Assistant Professor  <br>
@@ -25,7 +25,7 @@ title: People
 <!-- Lora -->
 
 <div style="display: flex; align-items: center;">
-    <img src="images/Lora_headshot.jpg" alt="Lora Mohanty" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Lora_headshot.jpg" alt="Lora Mohanty" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Lora Mohanty </strong><br>
         Ph.D. student  <br>
@@ -38,7 +38,7 @@ title: People
 <!-- Sandesh -->
 
 <div style="display: flex; align-items: center;">
-    <img src="images/Sandesh_headshot.jpg" alt="Sandesh Poudel" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Sandesh_headshot.jpg" alt="Sandesh Poudel" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Sandesh Poudel </strong><br>
         Ph.D. student  <br>
@@ -52,7 +52,7 @@ title: People
 <!-- Zhang -->
 
 <div style="display: flex; align-items: center;">
-    <img src="images/Zhang_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Zhang_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Xiaoyu Zhang </strong><br>
         MS student, ABE  <br>
@@ -67,7 +67,7 @@ title: People
 <!-- Abhi -->
 
 <div style="display: flex; align-items: center;">
-    <img src="images/Abhi_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Abhi_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Abhinav Pagadala </strong><br>
         MS student, Statistics and Data Science  <br>
@@ -82,11 +82,11 @@ title: People
 <!-- Janmejay -->
 
 <div style="display: flex; align-items: center;">
-    <img src="images/Janmejay_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Janmejay_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Janmejay Rathi </strong><br>
         MS, Robotics and Autonomy  <br>
-        Janmejay is from Nagpur, India. He completed his B.E. in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur and pursued his MS at UIUC. He graduated in Fall 2024 and joined our team as Robotics Engineer in Spring 2025. He is passionate about robtoics and working on integrating components for a horseradish weeding project. <br>
+        Janmejay is from Nagpur, India. He completed his B.E. in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur and pursued his MS at UIUC. He graduated in Fall 2024 and joined our team as Robotics Engineer in Spring 2025. He is passionate about robotics and working on integrating components for a horseradish weeding project. <br>
         <a href="mailto:email@example.com">jurathi2@illinois.edu</a> | <a href="https://www.linkedin.com/in/janmejayrathi/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
     </div>
 </div>
@@ -97,11 +97,11 @@ title: People
 
 <!-- Hannah -->
 <div style="display: flex; align-items: center;">
-    <img src="images/Hannah_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Hannah_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Hannah Surya Sundararajan </strong><br>
         Junior, Agricultural and Biological Engineering  <br>
-        Hannah is from Greater Milwaukee, Wisconsin. She is pursuing a dual degree in Agricultural & Biological Engineering and Spanish at the University of Illinois Urbana-Champaign, minoring in Geography and Geographic Information Sciences. She was also enlisted for 4 years in the Air National Guard as an Engineering Technician.  <br>
+        Hannah is from Greater Milwaukee, WI. She is pursuing a dual degree in Agricultural & Biological Engineering and Spanish at the University of Illinois Urbana-Champaign, minoring in Geography and Geographic Information Sciences. She was also enlisted for 4 years in the Air National Guard as an Engineering Technician. In Fall 2024, she was selected as a NASA DEVELOP intern. <br>
         <a href="mailto:hss5@illinois.edu">hss5@illinois.edu</a> | <a href="https://www.linkedin.com/in/hannah-sundararajan/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
     </div>
 </div>
@@ -110,11 +110,11 @@ title: People
 
 <!-- Seth -->
 <div style="display: flex; align-items: center;">
-    <img src="images/Seth_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Seth_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Seth Van Hoveln </strong><br>
         Senior, Engineering Technology Management in Agricultural Sciences  <br>
-        Seth is Milford, IL. He comes from a farm background and an expert in precision agriculture. He will graduate in Spring 2025, and is intersted in pursuing a MS and joining our team as a graduate student in Fall 2025. <br>
+        Seth is from Milford, IL. He comes from a farm background and an expert in precision agriculture. He will graduate in Spring 2025, and is intersted in pursuing a MS and joining our team as a graduate student in Fall 2025. <br>
         <a href="mailto:sethtv2@illinois.edu">sethtv2@illinois.edu</a>        
     </div>
 </div>
@@ -123,7 +123,7 @@ title: People
 
 <!-- Jusjeev -->
 <div style="display: flex; align-items: center;">
-    <img src="images/Jusjeev_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/Jusjeev_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Jusjeev Bhurjee </strong><br>
         Senior, Computer Science  <br>
@@ -137,7 +137,7 @@ title: People
 
 <!-- Advait -->
 <div style="display: flex; align-items: center;">
-    <img src="images/profile_photo_template.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="images/headshots/profile_photo_template.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Advait Talhayani </strong><br>
         Sophomore, Computer Science  <br>
