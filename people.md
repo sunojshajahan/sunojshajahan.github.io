@@ -127,7 +127,7 @@ title: People
     <div>
         <strong>Jusjeev Bhurjee </strong><br>
         Senior, Computer Science  <br>
-        Jusjeev is from Punjab, India. He has spent most of his time outside of India, pursuing his schooling in Argentina, and South Africa. He is involved in robotics project and has been developing an autonomous navigation algorithm for the Amiga platform. <br>
+        Jusjeev is from New Delhi, India. He has spent most of his time outside of India, pursuing his schooling in Argentina. He is involved in the robotics project and has been developing an autonomous navigation algorithm for the Amiga Platform. <br>
         <a href="mailto:bhurjee2@illinois.edu">bhurjee2@illinois.edu</a> | <a href="https://www.linkedin.com/in/jusjeevsingh/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>        
     </div>
 </div>
