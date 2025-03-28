@@ -29,7 +29,7 @@ title: People
     <div>
         <strong>Lora Mohanty </strong><br>
         Ph.D. student  <br>
-        Lora is from Bhubaneswar, India. She completed her M.Tech. in Agro Rural Studies at IIT Guwahati in 2024 and joined our team in Fall 2024. <br>
+        Lora is from Bhubaneswar, India. She completed her M.Tech. in Agro and Rural Technology at IIT Guwahati in 2024 and joined our team in Fall 2024. Her masters research included development of a micro-reactor using Computational Fluid Dynamics which enhances the synthesis of ammonia compared to  the existing reactors. Her research interests are on artificial intelligence, remote sensing, Ag robotics, and precision agriculture and their applications for the development of farmer friendly resources. She is currently working on the use of Synthetic Aperture Radar (SAR) in agricultural applications.<br>
         <a href="mailto:loram3@illinois.edu">loram3@illinois.edu</a> | <a href="https://www.linkedin.com/in/lora-mohanty-aa4301249/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>  
     </div>
 </div>
@@ -42,7 +42,7 @@ title: People
     <div>
         <strong>Sandesh Poudel </strong><br>
         Ph.D. student  <br>
-        Sandesh is from Chitwan, Nepal and joined our team in Spring 2025. He earned his B.E. in Agricultural Engineering from Tribhuvan University, and his M.S. from the University of Georgia, where he developed the innovative Digital Agricultural Technology Readiness Level (DATRL) framework to assess agricultural technology maturity. His research interest includes robotics, Artificial Intelligence, remote sensing, and precision agriculture in order to develop sustainable farming solutions. Sandesh is currently working on developing solutions for automatic weed detection and removal using robotic platform. He is also the author of book, "Agricultural Extension Education" and has received multiple awards for his academic and leadership contributions. <br>
+        Sandesh is from Chitwan, Nepal and joined our team in Spring 2025. He earned his B.E. in Agricultural Engineering from Tribhuvan University, and his M.S. from the University of Georgia, where he developed the innovative Digital Agricultural Technology Readiness Level (DATRL) framework to assess agricultural technology maturity. His research interest includes robotics, artificial intelligence, remote sensing, and precision agriculture in order to develop sustainable farming solutions. Sandesh is currently working on developing solutions for automatic weed detection and removal using robotic platform. He is also the author of book, "Agricultural Extension Education" and has received multiple awards for his academic and leadership contributions. <br>
         <a href="mailto:spoudel2@illinois.edu">spoudel2@illinois.edu</a> | <a href="https://www.linkedin.com/in/sandesh-poudel-733b59110/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> | <a href="https://scholar.google.com/citations?user=LH3_qT0AAAAJ&hl=en" style="margin-left: 10px;"><i class="fa-brands fa-google-scholar"></i></a> 
     </div>
 </div>
