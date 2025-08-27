@@ -27,9 +27,8 @@ Illinois has a rich history as a leading producer of horseradish, dating back 15
 Synthetic Aperture Radar (SAR) is a powerful yet underutilized tool in agricultural research. Sentinel-1A is a microwave remote sensing platform that provides high-resolution (10 m) imagery every five days. It offers all-weather, cloud-penetrating data in four bands (VV, HH, VH, HV). SAR measures surface backscatter properties, which can be used to study the impact of soil disturbances caused by various farming operations like tilling, planting, spraying, and harvesting in agriculture. This project will explore how temporal SAR data can be leveraged to analyze these surface changes, quantify soil properties such as moisture content, and assess erosion potential and topsoil depletion rates. 
 
 **Students:** 
-+ Lora Mohanty, PhD student
++ Xiaoyu Zhang, PhD student
 + Jinshang Fred Li, NASA UROP scholar, Summer 2025
-
 ---
 
 ### 3. Generalized yield prediction using remote sensing

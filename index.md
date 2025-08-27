@@ -22,22 +22,34 @@ The Digital Precision Agriculture Lab is located in Room #236 of the [Agricultur
 
 We focus on both fundamental and applied research, maintaining a balance between theoretical concepts and practical implementation. Each project has its unique scope, ranging from exploratory analysis based on theoretical principles to the real-time application of using robotic platforms or machine systems.  
 
-Our research focuses on using advanced data analytics and AI algorithms ranging from simple models to state-of-the-art (SOTA) techniques—to process and interpret multi-source sensor data. These data streams include:  
+Our research focuses on using advanced data analytics and AI algorithms ranging from simple models to state-of-the-art (SOTA) techniques to process and interpret multi-source sensor data. These data streams include:  
 - Remotely sensed imagery (using free and open-access platforms),  
 - Robotics sensing data (collected using the Farm-ng Amiga platform), and  
 - Machine sensing (from vision cameras mounted on agricultural equipment).  
 
-We are dedicated to developing data-driven decision support tools that empower farmers and stakeholders to make informed decisions, whether for seasonal management, understanding legacy effects, or enabling near real-time interventions. By bridging the gap between technology and agriculture, we aim to create innovative, practical, and impactful solutions that address the challenges of modern agriculture.  
+We are developing data-driven decision support tools that empower farmers and stakeholders to make informed decisions, whether for seasonal management, understanding legacy effects, or enabling near real-time interventions. By bridging the gap between technology and agriculture, we aim to create innovative, practical, and impactful solutions that address the challenges of modern agriculture.  
 
 ## Passion for open source in agriculture
 
-Our team is passionate about utilizing Free and Open-Source Software (FOSS) platforms for computer vision, geospatial analysis, and software tool development. We focus on designing workflows for analyzing images or any data formats from vision cameras or remotely sensed images using FOSS tools such as QGIS, R, ImageJ, and Python. We believe that the open-source culture promotes widespread access, fosters transparency, reproducibility, and ensures credibility and practicality for farmers and researchers.  
+Our team is passionate about using Free and Open-Source Software (FOSS) platforms for computer vision, geospatial analysis, and software tool development. We focus on designing workflows for analyzing images or any data formats from vision cameras or remotely sensed images using FOSS tools such as QGIS, Python, ImageJ, and R. We believe that the open-source culture promotes widespread access, fosters transparency, reproducibility, and ensures credibility and practicality for farmers and researchers.  
 
 <!-- Thank you for visiting! Explore our website to learn more about our **research areas**, meet our talented **team members**, and discover our **publications**, **awards**, and **events**. Together, we’re working toward a smarter, more sustainable future for agriculture.   -->
 
 ---
 
 ## Lab Updates  
+
++ **August 2025**: The researchers from the lab participated and demonstrated the horseradish mechanical weeding robot at the Farm Progess Show at Decatur. The robot demo was well received by the visitors. 
+
++ **August 2025**: Xiaoyu Zhang successfully defended his MS thesis on "Generalizing yield prediction approaches and evaluating the common factors influencing the models." He will be continuing in the lab as a PhD student starting in Fall 2025. 
+
++ **August 2025**: [Sandesh Poudel](https://www.linkedin.com/in/sandesh-poudel-733b59110/) attended a week long workshop as a part of the FFAR fellows program at North Carolina State University.
+
++ **May 2025**: Congratulations to [Sandesh Poudel](https://www.linkedin.com/in/sandesh-poudel-733b59110/) for being selected as a [FFAR Fellow](https://extension.illinois.edu/news-releases/two-aces-doctoral-students-receive-prestigious-ffar-fellowships) for professional development program in the 2025--2027 cohort.
+
++ **April 2025**: [Alex Yoon](https://www.linkedin.com/in/seungwookyoon/) won 2nd place for a poster presentation in the 2025 Science & Spirits event.
+
++ **March 2025**: Joseph Spencer and Sunoj Shajahan secured a [2025 CDA-PRI seed grant](https://blogs.illinois.edu/view/7447/1641183321) to develop a deep learning approach to identify the Western Corn Rootworm in images gathered by an unmanned aerial vehicles.
 
 + **March 2025**: Our team is excited to participate in the [Farm Robotics Challenge 2025](https://www.farmroboticschallenge.ai/2025), organized by UC Agriculture and Natural Resources and the AI Institute for Next Generation Food Systems (AIFS), with support from the Fresno-Merced Future of Food Initiative (F3).
 

@@ -24,7 +24,7 @@ title: People
 ## Graduate students
 <!-- Lora -->
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
     <img src="images/headshots/Lora_headshot.jpg" alt="Lora Mohanty" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Lora Mohanty </strong><br>
@@ -32,7 +32,7 @@ title: People
         Lora is from Bhubaneswar, India. She completed her M.Tech. in Agro and Rural Technology at IIT Guwahati in 2024 and joined our team in Fall 2024. Her masters research included development of a micro-reactor using Computational Fluid Dynamics which enhances the synthesis of ammonia compared to  the existing reactors. Her research interests are on artificial intelligence, remote sensing, Ag robotics, and precision agriculture and their applications for the development of farmer friendly resources. She is currently working on the use of Synthetic Aperture Radar (SAR) in agricultural applications.<br>
         <a href="mailto:loram3@illinois.edu">loram3@illinois.edu</a> | <a href="https://www.linkedin.com/in/lora-mohanty-aa4301249/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>  
     </div>
-</div>
+</div> -->
 
 ---
 <!-- Sandesh -->
@@ -63,51 +63,6 @@ title: People
 
 ---
 
-
-<!-- Abhi -->
-
-<div style="display: flex; align-items: center;">
-    <img src="images/headshots/Abhi_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
-    <div>
-        <strong>Abhinav Pagadala </strong><br>
-        MS student, Statistics and Data Science  <br>
-        Abhi is from Manhattan, KS. He is part of the AIFARMS project on mechanical weeding project on horseradish. With his expertise, he is training and testing a few detection and segmentation models for navigation and weed removal. He is also finetuning certain models to make it light-weight and can run on smaller edge computing device. <br>
-        <a href="mailto:asp14@illinois.edu">asp14@illinois.edu</a> | <a href="https://www.linkedin.com/in/abhinav-pagadala-5201bb231/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
-    </div>
-</div>
-
----
-
-
-<!-- Janmejay -->
-
-<div style="display: flex; align-items: center;">
-    <img src="images/headshots/Janmejay_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
-    <div>
-        <strong>Janmejay Rathi </strong><br>
-        MS, Robotics and Autonomy  <br>
-        Janmejay is from Nagpur, India. He completed his B.E. in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur and pursued his MS at UIUC. He graduated in Fall 2024 and joined our team as Robotics Engineer in Spring 2025. He is passionate about robotics and working on integrating components for a horseradish weeding project. <br>
-        <a href="mailto:email@example.com">jurathi2@illinois.edu</a> | <a href="https://www.linkedin.com/in/janmejayrathi/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
-    </div>
-</div>
-
----
-
-## Undergraduate students
-
-<!-- Hannah -->
-<div style="display: flex; align-items: center;">
-    <img src="images/headshots/Hannah_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
-    <div>
-        <strong>Hannah Surya Sundararajan </strong><br>
-        Junior, Agricultural and Biological Engineering  <br>
-        Hannah is from Greater Milwaukee, WI. She is pursuing a dual degree in Agricultural & Biological Engineering and Spanish at the University of Illinois Urbana-Champaign, minoring in Geography and Geographic Information Sciences. She was also enlisted for 4 years in the Air National Guard as an Engineering Technician. In Fall 2024, she was selected as a NASA DEVELOP intern. <br>
-        <a href="mailto:hss5@illinois.edu">hss5@illinois.edu</a> | <a href="https://www.linkedin.com/in/hannah-sundararajan/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
-    </div>
-</div>
-
----
-
 <!-- Seth -->
 <div style="display: flex; align-items: center;">
     <img src="images/headshots/Seth_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
@@ -119,24 +74,55 @@ title: People
     </div>
 </div>
 
----
 
-<!-- Jusjeev -->
-<div style="display: flex; align-items: center;">
-    <img src="images/headshots/Jusjeev_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+<!-- Abhi -->
+
+<!-- <div style="display: flex; align-items: center;">
+    <img src="images/headshots/Abhi_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
-        <strong>Jusjeev Bhurjee </strong><br>
-        Senior, Computer Science  <br>
-        Jusjeev is from New Delhi, India. He has spent most of his time outside of India, pursuing his schooling in Argentina. He is involved in the robotics project and has been developing an autonomous navigation algorithm for the Amiga Platform. <br>
-        <a href="mailto:bhurjee2@illinois.edu">bhurjee2@illinois.edu</a> | <a href="https://www.linkedin.com/in/jusjeevsingh/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>        
+        <strong>Abhinav Pagadala </strong><br>
+        MS student, Statistics and Data Science  <br>
+        Abhi is from Manhattan, KS. He is part of the AIFARMS project on mechanical weeding project on horseradish. With his expertise, he is training and testing a few detection and segmentation models for navigation and weed removal. He is also finetuning certain models to make it light-weight and can run on smaller edge computing device. <br>
+        <a href="mailto:asp14@illinois.edu">asp14@illinois.edu</a> | <a href="https://www.linkedin.com/in/abhinav-pagadala-5201bb231/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
     </div>
 </div>
 
----
+--- -->
+
+
+<!-- Janmejay -->
+
+<!-- <div style="display: flex; align-items: center;">
+    <img src="images/headshots/Janmejay_headshot.jpg" alt="Xiaoyu Zhang" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <div>
+        <strong>Janmejay Rathi </strong><br>
+        MS, Robotics and Autonomy  <br>
+        Janmejay is from Nagpur, India. He completed his B.E. in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur and pursued his MS at UIUC. He graduated in Fall 2024 and joined our team as Robotics Engineer in Spring 2025. He is passionate about robotics and working on integrating components for a horseradish weeding project. <br>
+        <a href="mailto:email@example.com">jurathi2@illinois.edu</a> | <a href="https://www.linkedin.com/in/janmejayrathi/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> 
+    </div>
+</div>
+
+--- -->
+
+<!-- ## Undergraduate students -->
+
+<!-- Hannah -->
+<!-- <div style="display: flex; align-items: center;">
+    <img src="images/headshots/Hannah_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <div>
+        <strong>Hannah Surya Sundararajan </strong><br>
+        Junior, Agricultural and Biological Engineering  <br>
+        Hannah is from Greater Milwaukee, WI. She is pursuing a dual degree in Agricultural & Biological Engineering and Spanish at the University of Illinois Urbana-Champaign, minoring in Geography and Geographic Information Sciences. She was also enlisted for 4 years in the Air National Guard as an Engineering Technician. In Fall 2024, she was selected as a NASA DEVELOP intern. <br>
+        <a href="mailto:hss5@illinois.edu">hss5@illinois.edu</a> | <a href="https://www.linkedin.com/in/hannah-sundararajan/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
+    </div>
+</div>
+
+--- -->
+
 
 
 <!-- Advait -->
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
     <img src="images/headshots/profile_photo_template.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <strong>Advait Talhayani </strong><br>
@@ -146,4 +132,16 @@ title: People
     </div>
 </div>
 
----
+--- -->
+
+<!-- ## Past students -->
+<!-- Jusjeev
+<div style="display: flex; align-items: center;">
+    <img src="images/headshots/Jusjeev_headshot.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+    <div>
+        <strong>Jusjeev Bhurjee </strong><br>
+        Senior, Computer Science  <br>
+        Jusjeev is from New Delhi, India. He has spent most of his time outside of India, pursuing his schooling in Argentina. He is involved in the robotics project and has been developing an autonomous navigation algorithm for the Amiga Platform. <br>
+        <a href="mailto:bhurjee2@illinois.edu">bhurjee2@illinois.edu</a> | <a href="https://www.linkedin.com/in/jusjeevsingh/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>        
+    </div>
+</div> -->
