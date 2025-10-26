@@ -14,7 +14,7 @@ title: People
     <div>
         <strong>Sunoj Shajahan </strong><br>
         Assistant Professor  <br>
-        Sunoj was born and raised in Tamil Nadu, India. His interest for FOSS started during his PhD where he developed four software tools for processing field images using FOSS, ImageJ. Druing his period as a postdoctoral associate at Cornell University, he worked on remote sensing and data analysis for crop yield prediction. Sunoj joined UIUC in Fall 2023, and started the Digital Precision Agriculture Lab, which focuses on using precision technologies and developing data-driven practical and geospatial solutions for agriculture. <br>
+        Sunoj was born and raised in Tamil Nadu, India. His research interests are in precision agriculture, remote sensing, and geospatial data analysis. During his PhD, he developed a few open-source tools using ImageJ to process and analyze field imagery, which also was the starting point in FOSS (Free and Open Source Software). As a postdoctoral associate at Cornell University, he worked on integrating remote sensing and data analysis to predict crop yield at scale. In Fall 2023, he joined University of Illinois Urbana-Champaign, where he started the Digital Precision Agriculture Lab. His lab focuses on advancing precision technologies and building data-driven, geospatial solutions that support practical decision-making in agriculture. <br>
         <a href="mailto:sunoj@illinois.edu">sunoj@illinois.edu</a> | <a href="https://www.linkedin.com/in/sunoj-shajahan-ph-d-23606190/" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a> | <a href="https://scholar.google.com/citations?user=PSu2s7YAAAAJ&hl=en" style="margin-left: 10px;"><i class="fa-brands fa-google-scholar"></i></a>
     </div>
 </div>

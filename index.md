@@ -37,11 +37,14 @@ Our team is passionate about using Free and Open-Source Software (FOSS) platform
 
 ---
 
-## Lab Updates  
+## Lab Updates
++ **October 2025**: The graduate students of the lab, [Seth Van Hoveln, Xiaoyu Zhang, and Sandesh Poudel](images/SYDAG_2025.jpg), participated and presented their research at the [Symposium of Digital Agriculture](https://www.sydag.org/) at Purdue University. Xiaoyu Zhang received third place in the poster presentation competition, and Sandesh Poudel received a travel award to attend the conference.
 
-+ **August 2025**: The researchers from the lab participated and demonstrated the horseradish mechanical weeding robot at the Farm Progess Show at Decatur. The robot demo was well received by the visitors. 
++ **September 2025**: [Sandesh Poudel](https://www.linkedin.com/in/sandesh-poudel-733b59110/) has been selected for [Digital GreenTalent 2025](https://digitalgreentalents.de/about-the-award-2025) by the German Federal Ministry of Research, Technology and Space. He received a fully funded 3-month research stay in Germany in 2026, participate in a summer school near Frankfurt, and join a global network of experts in sustainable digital technologies. 
 
-+ **August 2025**: Xiaoyu Zhang successfully defended his MS thesis on "Generalizing yield prediction approaches and evaluating the common factors influencing the models." He will be continuing in the lab as a PhD student starting in Fall 2025. 
++ **August 2025**: The researchers from the lab participated and demonstrated the horseradish mechanical weeding robot at the [Farm Progess Show](images/FPS_2025.jpg) at Decatur. The robot demo was well received by the visitors. 
+
++ **August 2025**: Xiaoyu Zhang successfully defended his [MS thesis](images/zhang_MSdefense.jpg) on "Generalizing yield prediction approaches and evaluating the common factors influencing the models." He will be continuing in the lab as a PhD student starting in Fall 2025. 
 
 + **August 2025**: [Sandesh Poudel](https://www.linkedin.com/in/sandesh-poudel-733b59110/) attended a week long workshop as a part of the FFAR fellows program at North Carolina State University.
 
